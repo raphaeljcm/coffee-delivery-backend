@@ -1,6 +1,6 @@
 {
   "name": "coffee-delivery-backend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "backend for Coffee Delivery app",
   "main": "index.js",
   "scripts": {
